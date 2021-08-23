@@ -592,7 +592,7 @@ background: rgba(255, 255, 255, 0.4);
     margin: 1.3em 0;
 }
 .progress-bar {
-    background-color:rgb(234, 64, 229);
+    background-color:rgb(94, 109, 116)
 }
 /*--//about--*/
 
@@ -1231,7 +1231,7 @@ footer p {
     color: #fff;
 	    letter-spacing: 3px;
 }
- footer p a{color:red;}
+ footer p a{color:#be9d72;}
 footer p a:hover{color:white;}
 /*-- //footer--*/
 #toTop {
@@ -1650,14 +1650,14 @@ footer p {
 		margin: 0.5em 0 0;
 	}
 	.navbar-default .navbar-toggle {
-     background: rgb(255, 104, 156);
+     background: rgb(94, 109, 116);
     border-radius: 5px;
 	}
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #fff;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background:rgb(255, 44, 117);
+    background:rgb(94, 109, 116);
 }
 	.navbar-default .navbar-nav > li > a {
     text-align: center;
