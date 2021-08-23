@@ -742,6 +742,8 @@ h4.modal-title {
 .slider-photo {
     background: url(../images/ph1.jpg)no-repeat center;
     background-size: cover;
+    padding-top: -3%;
+    padding-bottom: 13%;
 }
 .carousel {
     margin-bottom: 0;
