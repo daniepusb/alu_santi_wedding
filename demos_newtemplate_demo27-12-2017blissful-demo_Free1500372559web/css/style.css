@@ -129,7 +129,7 @@ ul {
     margin-right: 0;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
 	    border: 1px solid #fff;
     border-radius: 50px;
     background: #fff;
@@ -155,13 +155,13 @@ ul {
     text-transform: uppercase;
 }
 .navbar-default .navbar-nav > li > a:hover{
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
 	    border: 1px solid #fff;
     border-radius: 50px;
     background: #fff;
 }
 .navbar-default .navbar-nav > li > a:focus {
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
 	outline:none;
 }
 nav.navbar.navbar-default {
@@ -205,7 +205,7 @@ a.navbar-brand i{
 }*/
 
 h1 a.navbar-brand span {
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
 
 	
 }
@@ -732,7 +732,7 @@ img {
 h4.modal-title {
     text-align: center;
     font-size: 32px;
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
     letter-spacing: 2px;
 }
 
@@ -852,7 +852,7 @@ background: #428bca;
     transition: all 0.5s; 
 }
 .w3ls-hover:hover .view-caption { 
-	background-color:rgba(230, 0, 79, 0.9); 
+	background-color:rgba(94, 109, 116, 0.9); 
 	opacity: 1;
 	width: 100%;
 }
@@ -966,7 +966,7 @@ figure.effect-julia p {
 	display: inline-block;
 	margin: 0 0 1em;
 	padding: 0.4em 1em;
-	background:rgba(230, 0, 79, 0.9);
+	background:rgba(94, 109, 116, 0.9);
     color: #fff;
 	text-transform: none;
 	letter-spacing:2px;
@@ -1067,7 +1067,7 @@ figure.effect-julia:hover p {
 	}
 .contact input[type="text"]:hover,
 .contact input[type="email"]:hover,
-.contact textarea:hover{ border: 2px solid rgba(230, 0, 79, 0.9);}
+.contact textarea:hover{ border: 2px solid rgba(94, 109, 116, 0.9);}
 ::-webkit-input-placeholder { /* Chrome */
   color: #fff;
 }
@@ -1106,7 +1106,7 @@ figure.effect-julia:hover p {
 }
 .contact input[type="submit"]:hover {
     color: #fff;
-    background:rgba(230, 0, 79, 0.9);
+    background:rgba(94, 109, 116, 0.9);
 }
 .footer_grid_left h5 {
     font-size: 25px;
@@ -1140,14 +1140,14 @@ figure.effect-julia:hover p {
     width: 66px;
     height: 66px;
     border-radius: 50%;
-    background:rgba(230, 0, 79, 0.9);
+    background:rgba(94, 109, 116, 0.9);
     text-align: center;
 }
 /*--//contact--*/
 /*-- footer --*/
 .bottom-head h2 a {
     font-size: 50px;
-    color: rgba(230, 0, 79, 0.9);
+    color: rgba(94, 109, 116, 0.9);
 }
 .buttom-para{padding:30px 0px;}
 .buttom-para p{color:#000;
@@ -1155,7 +1155,7 @@ font-size:14px;
 }
 .letter input[type="email"] {
     outline: none;
-    border: 1px solid  rgba(230, 0, 79, 0.9);
+    border: 1px solid  rgba(94, 109, 116, 0.9);
     color: #fff;
     font-size: 14px;
     padding: 10px;
@@ -1166,13 +1166,13 @@ font-size:14px;
 .newsletter input[type="submit"] {
     outline: none;
 	    display: inline-block;
-    border:2px solid rgba(230, 0, 79, 0.9);
+    border:2px solid rgba(94, 109, 116, 0.9);
     color: #fff;
     font-size: 16px;
     padding:8px 0;
 	font-weight:700;
     width: 30%;
-    background:rgba(230, 0, 79, 0.9);
+    background:rgba(94, 109, 116, 0.9);
 	    transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
@@ -1181,7 +1181,7 @@ font-size:14px;
 }
 .newsletter input[type="submit"]:hover {
     color: #fff;
-    background:rgba(230, 0, 79, 0.9);
+    background:rgba(94, 109, 116, 0.9);
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
