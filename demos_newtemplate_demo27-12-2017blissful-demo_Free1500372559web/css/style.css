@@ -10,7 +10,7 @@ html,
 body {
     padding: 0;
     margin: 0;
-    background: #fff;
+    background: #ebf0f5;
     letter-spacing: 1px;
 font-family: 'Roboto', sans-serif;
 }
@@ -88,11 +88,14 @@ ul {
 .about, .services,.contact,.slider-photo, .team, .days-coming ,.buttom-w3,.blog,.gallery{
     padding: 6em 0;
 }
+.services{
+    padding: 16em 0;
+}
 
 .title {
     font-size: 60px;
     text-align: center;
-    color: #000;
+    color: #be9d72;
     margin-bottom: 0.8em;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -464,7 +467,8 @@ font-weight:600;
 /*-- //banner --*/
 /*-- counter timer --*/
 .days-coming {
-    background: url(../images/a2.jpg)no-repeat center;
+    background-color: #5e6d74;
+    background-image: url(../images/45-degree-fabric-light.png);
     background-size: cover;
 }
 /*--timer--*/
@@ -545,10 +549,11 @@ background: rgba(255, 255, 255, 0.4);
 /*--//timer--*/
 /*--about--*/
 .about-top-grid h4 {
-    color:rgba(230, 0, 79, 0.9);
-    font-size: 30px;
+    color:rgba(94, 109, 116, 0.9);
+    font-size: 40px;
     margin: 0;
     font-weight: 600;
+    font-family: 'Signika Negative', sans-serif;
 }
 .about-top-grid p {
     margin: 1em 0 0 0;
@@ -596,11 +601,11 @@ background: rgba(255, 255, 255, 0.4);
     background-size: cover;
 }
 span.banner-icon {
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(140, 137, 86, 0.9);
     background:rgb(255, 255, 255);
-    font-size: 25px;
+    font-size: 60px;
     line-height: 75px;
-    border: 2px solid rgba(230, 0, 79, 0.9);
+    border: 2px solid rgba(140, 137, 86, 0.9);
     width: 80px;
     height: 80px;
     border-radius: 50%;
@@ -644,7 +649,10 @@ span.banner-icon {
     border: 2px solid rgb(0, 0, 0);
 
 }
-.white-shadow:hover{background:rgba(255, 43, 116, 0.98);}
+.white-shadow h3{
+    color:#f2e0d4;
+}
+.white-shadow:hover{background:rgba(140, 137, 86, 0.8);}
 /*--//services--*/
 /*--bloag--*/
 .blog-br{
@@ -657,6 +665,9 @@ span.banner-icon {
     background-size: cover;
     min-height: 378px;
 }
+blog.container{
+    background-image: url(../images/natural-paper.png);
+}
 .left-side {
     padding-right: 52px;
 	text-align:right;
@@ -668,7 +679,7 @@ span.banner-icon {
     font-weight: 600;
     font-size: 23px;
     letter-spacing: 3px;
-    color:rgba(230, 0, 79, 0.9);
+    color:rgba(94, 109, 116, 0.9);
 }
 .w3layouts_more-buttn a {
     font-size: 14px;
@@ -678,10 +689,10 @@ span.banner-icon {
     text-transform: uppercase;
     display: inline-block;
     letter-spacing: 2px;
-    background-color: rgba(230, 0, 79, 0.9);
+    background-color: rgba(94, 109, 116, 0.9);
     outline: none;
     padding: 10px 22px;
-    border: 2px solid rgba(230, 0, 79, 0.9);
+    border: 2px solid rgba(94, 109, 116, 0.9);
 }
 
 .w3layouts_more-buttn a:hover {
@@ -842,8 +853,17 @@ background: #428bca;
 /*-- //gallery --*/
 /*-- team --*/
 .team {
-    background: url(../images/tm1.jpg)no-repeat center;
+    background: url(../images/rice-paper-2.png)no-repeat center;
     background-size: cover;
+    background-color:#bebc91;
+}
+.team h2{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 50px;
+    color:#29373e;
+}
+.team h2 strong{
+    color:#f2e0d4;
 }
 .agileits_w3layouts_head{
 	font-size:2.2em;
@@ -1323,7 +1343,6 @@ footer p a:hover{color:white;}
     padding: 1em;
 }
 
-}
 @media(max-width:1050px){
 	.banner {
     min-height: 586px;
