@@ -1096,7 +1096,7 @@ figure.effect-julia:hover p {
     border: solid 2px #fff;
     padding: .7em 3em;
     outline: 0;
-    background:rgba(255, 112, 161, 0.9);
+    background:#73654b;
     display: inline-block;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
