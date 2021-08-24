@@ -866,8 +866,10 @@ background: #428bca;
 }
 .team h2{
     font-family: 'Signika Negative', sans-serif;
-    font-size: 50px;
+    font-size: 3.5rem;
     color:#29373e;
+    text-align: center;
+    
 }
 .team h2 strong{
     color:#f2e0d4;
