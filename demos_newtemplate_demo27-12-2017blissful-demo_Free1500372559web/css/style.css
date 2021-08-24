@@ -1563,6 +1563,7 @@ footer p {
 @media(max-width:768px){
 	.banner {
     min-height: 496px;
+    }
 }
 
 .callbacks_nav.next ,.callbacks_nav {
