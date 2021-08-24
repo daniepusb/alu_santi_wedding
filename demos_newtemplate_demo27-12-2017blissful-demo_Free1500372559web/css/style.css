@@ -1878,7 +1878,7 @@ footer p {
         letter-spacing: 1px;
     }
     .position {
-        width: 29px;
+        width: 4rem;
     }
     .out-info p {
         font-size: 14px;
@@ -1899,7 +1899,7 @@ footer p {
         min-height: 344px;
     }
     .blog-br {
-        min-height: 238px;
+        min-height: 300px;
     }
 }
 @media(max-width:384px){
@@ -2036,10 +2036,10 @@ footer p {
     font-size: 14px;
 }
 .blog-br {
-    min-height: 271px;
+    min-height: 460px;
 }
 .blog-gr {
-    min-height: 254px;
+    min-height: 460px;
 }
 .w3ls-hover .view-caption {
     padding: 2.3em 0;
