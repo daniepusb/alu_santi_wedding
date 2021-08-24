@@ -2093,7 +2093,7 @@ footer p {
   }
   
   .active {
-    background-color: #717171;
+    /* background-color: #717171; */
   }
   
   /* Fading animation */
