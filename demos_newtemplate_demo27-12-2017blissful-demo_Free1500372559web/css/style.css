@@ -1146,9 +1146,9 @@ figure.effect-julia:hover p {
 .footer_grid_left p span {
     display: block;
 }
-.footer_grid_left:nth-child(3),.footer_grid_left:nth-child(4){
+/* .footer_grid_left:nth-child(3),.footer_grid_left:nth-child(4){
     margin-top: 51px;
-}
+} */
 .icon_grid_left span {
     color: #fff;
     font-size: 28px;
