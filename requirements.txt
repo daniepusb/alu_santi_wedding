@@ -1,0 +1,15 @@
+flask
+flask-bootstrap
+pillow
+qrcode
+flask-wtf
+flask-testing
+blinker
+firebase-admin
+flask-login
+Flask-RESTful
+stripe
+gunicorn
+bs4
+flask-talisman
+pyOpenSSL
